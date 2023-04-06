@@ -10,7 +10,7 @@ function HomePage() {
     <MainContainer>
       
       <Header />
-      <h1>Página Inicial</h1>
+      <h1>Alguma coisa deu errado...</h1>
     </MainContainer>
       
   );

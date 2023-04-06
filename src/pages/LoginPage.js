@@ -2,14 +2,15 @@ import Header from "../components/Header";
 import { MainContainer } from "../style";
 
 
-function ProfilePage() {
+function LoginPage() {
   
   return (
     <MainContainer>
       <Header />
-      <h1>Página acerca do usuário</h1>
+      <h1>Página de Login</h1>
+      
     </MainContainer>
   );
 }
 
-export default ProfilePage;
+export default LoginPage;
